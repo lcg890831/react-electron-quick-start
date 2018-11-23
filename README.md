@@ -15,4 +15,4 @@ Only 3 step：
 使用步骤
 1. 下载&npm install
 2. 在scripts目录下写你自己的react component并在start.js中import
-3.npm start
+3. npm start
